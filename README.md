@@ -1,2 +1,16 @@
-# project-skeleton
+# Project skeleton
 An example of a Hackathon project skeleton
+
+## About
+
+## Requirements
+
+## Install
+
+## Usage
+
+## Live demo
+
+## License
+
+[MIT](LICENSE)
