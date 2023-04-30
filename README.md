@@ -11,6 +11,8 @@ An example of a Hackathon project skeleton
 
 ## Live demo
 
+## Team
+
 ## License
 
 [MIT](LICENSE)
